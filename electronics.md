@@ -43,6 +43,14 @@ amount of charges passing through a cross section per unit of time
 
 ---
 
+# Cartoon Illustration
+
+.img-100.center[
+![](./images/electronics/electricity-cartoon.jpg)
+]
+
+---
+
 # Water Analogy
 
 - Imagine we have a system of pump and pipes
