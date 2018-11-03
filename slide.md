@@ -1,6 +1,9 @@
 # micro:bit course
 
-- [L1 Introduction](?slide=L1.md)
+[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/)  
+programming environment
+
+- [L1 Introduction](?slide=L1.md), [Extra: L1](?slide=L1_extra.md)
 - L2 Learn your micro:bit
 - L3
 - L4
