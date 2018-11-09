@@ -4,7 +4,7 @@
 programming environment
 
 - [L1 Introduction](?slide=L1.md), [Extra: L1](?slide=L1_extra.md)
-- L2 Learn your micro:bit
+- [L2 Learn your micro:bit](?slide=L2.md), [Extra: L2](?slide=L2_extra.md)
 - L3
 - L4
 - L5

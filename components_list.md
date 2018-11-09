@@ -6,10 +6,10 @@ class: center, middle
 
 ---
 
-# Components Box 零件盒
+# micro:bit 主板
 
 .img-75.center[
-![](./images/components/box.jpg)
+![](./images/components/microbit.jpg)
 ]
 
 ---
@@ -26,6 +26,14 @@ class: center, middle
 
 .img-75.center[
 ![](./images/components/microbit_case.jpg)
+]
+
+---
+
+# Components Box 零件盒
+
+.img-75.center[
+![](./images/components/box.jpg)
 ]
 
 ---
