@@ -32,6 +32,28 @@ shake to micro:bit to spread the sand
 
 ---
 
+# Dice
+
+.blockquote[
+.title[Coding Plan]
+
+```
+shake to get a random number from 1 to 6
+show the corresponding dice face on screen
+
+Challenge: add animation before showing the result
+```
+
+]
+
+.footnote[
+Hint: use `Math.randomRange()`  
+[dice roll lesson - Microsoft MakeCode](https://makecode.microbit.org/lessons/dice-roll)  
+[Program: dice](https://makecode.microbit.org/_E455rLiEh2K7)
+]
+
+---
+
 # Automatic lighting
 
 .blockquote[
@@ -46,7 +68,38 @@ lower LED brightness in bright light
 ]
 
 .footnote[
-[Program: flowing-sand](https://makecode.microbit.org/_0yTiDiD6AfjY)
+[Program: automatic-lighting](https://makecode.microbit.org/_KDW44D0cy1FW)
+]
+
+---
+
+# Compass
+
+.blockquote[
+.title[Coding Plan]
+
+```
+show icon of the direction you are facing (N, E, S, W)
+
+Challenge: add 4 more directions (NE, SE, SW, NW)
+```
+
+]
+
+.footnote[
+[Compass Heading - Microsoft MakeCode](https://makecode.microbit.org/reference/input/compass-heading)
+]
+
+---
+
+# Compass
+
+.center[
+![](./images/compass.png)
+]
+
+.footnote[
+[Program: compass](https://makecode.microbit.org/_bzTAb3U7gb3h)
 ]
 
 ---
