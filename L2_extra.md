@@ -14,14 +14,14 @@ _Markdown_ also available here
 
 ---
 
-# Flowing Sand
+# 流沙
 
 .blockquote[
 .title[Coding Plan]
 
 ```
-use the LED screen to mimic sand's behavior
-shake to micro:bit to spread the sand
+用LED矩陣來模仿流沙的行為
+晃動micro:bit來打散沙子
 ```
 
 ]
@@ -32,22 +32,20 @@ shake to micro:bit to spread the sand
 
 ---
 
-# Dice
+# 骰子
 
 .blockquote[
 .title[Coding Plan]
 
 ```
-shake to get a random number from 1 to 6
-show the corresponding dice face on screen
-
-Challenge: add animation before showing the result
+晃動 micro:bit 來取得從1到6的隨機數
+在 LED 矩陣顯示骰子點數
 ```
 
 ]
 
 .footnote[
-Hint: use `Math.randomRange()`  
+Hint: 用`Math.randomRange()`  
 [dice roll lesson - Microsoft MakeCode](https://makecode.microbit.org/lessons/dice-roll)  
 [Program: dice](https://makecode.microbit.org/_E455rLiEh2K7)
 ]
@@ -73,55 +71,24 @@ lower LED brightness in bright light
 
 ---
 
-# Compass
+# 遊戲: 捉點
 
 .blockquote[
 .title[Coding Plan]
 
 ```
-show icon of the direction you are facing (N, E, S, W)
+創建變量`dot`為遊戲⻆色 (`game.createSprite()`)
+讓它在畫面中間一行左右移動
+當它在畫面正中間時按A 鍵捉住它𠌊來得分
+玩遊戲15秒
 
-Challenge: add 4 more directions (NE, SE, SW, NW)
+挑戰:
+要𤫟玩家取得10分來結束遊戲
 ```
 
 ]
 
 .footnote[
-[Compass Heading - Microsoft MakeCode](https://makecode.microbit.org/reference/input/compass-heading)
-]
-
----
-
-# Compass
-
-.center[
-![](./images/compass.png)
-]
-
-.footnote[
-[Program: compass](https://makecode.microbit.org/_bzTAb3U7gb3h)
-]
-
----
-
-# Game: Snap the Dot 捉點
-
-.blockquote[
-.title[Coding Plan]
-
-```
-create a dot that moves back and froth in the middle row
-when it is at the center of the screen, use A button to capture it
-you get points when you catch it
-play for 15 seconds
-
-Challenge:
-make the player win 10 points until the game ends
-```
-
-]
-
-.footnote[
-[Snap the Dot - Microsoft MakeCode](https://makecode.microbit.org/v1/projects/snap-the-dot)  
-[Program: snap-the-dot](https://makecode.microbit.org/76542-48458-63081-91598)
+[Snap the Dot - Microsoft MakeCode](https://makecode.microbit.org/projects/snap-the-dot)  
+[Program: snap-the-dot](https://makecode.microbit.org/_eJrbk2EbLaDX)
 ]
