@@ -173,13 +173,25 @@ a:hover {
 .red {
   color: red;
 }
-
 .yellow {
   color: yellow;
 }
-
 .green {
   color: green;
+}
+
+.red-pin {
+  background: red;
+  font-weight: bold;
+}
+.black-pin {
+  color: white;
+  background: black;
+  font-weight: bold;
+}
+.yellow-pin {
+  background: yellow;
+  font-weight: bold;
 }
 
 @page {
