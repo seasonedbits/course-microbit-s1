@@ -7,6 +7,6 @@
 - [L3 Electric Circuits](?slide=L3.md)
 - [L4 Electric Circuits 2](?slide=L4.md)
 - [L5 Playing with LED](?slide=L5.md)
-- L6
+- [L6 Motion Sensors](?slide=L6.md)
 - [Extra: Electronics](?slide=electronics.md), [Extra: Metric Prefixes](?slide=metric.md)
 - [Components List 零件清單](?slide=components_list.md)
